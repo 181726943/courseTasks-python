@@ -1,0 +1,12 @@
+{
+
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "taskName": "echo",
+            "type": "shell",
+            "command": "F:\\Program Files\\Python38\\python.exe",
+            "args": ["${file}"]
+        }
+    ]
+}
